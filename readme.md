@@ -56,4 +56,4 @@
 ```
 - Jeg mener ovenstående datamodel giver et bedre overblik, er lettere at læse, og dermed nemmere at arbejde med og fejlsøge i.
 Med dette datoformat har man nu mulighed for mere præcist at angive hvornår et program bliver sendt, og dermed åbne op for en tv-guide som strækker sig længere end en uge ad gangen.
-- Koden der skal til for at lave et lignende "human readable format" vil ligeledes blive mere overskuelig og lettere at arbejde. Her forestiller jeg mig at man kan deserialiserer json direkte til et map bestående af en dato som mapper til en liste af programmer, og så laver en metode til at skrive det pænt ud.
+- Koden der skal til for at lave et lignende "human readable format" vil ligeledes blive mere overskuelig og lettere at arbejde. Her forestiller jeg mig at man kan deserialiserer json direkte til et map bestående af en dato som mapper til en liste af programmer, og så lave en metode til at skrive det pænt ud.
